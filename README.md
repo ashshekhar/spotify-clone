@@ -11,7 +11,12 @@ A beautiful and highly responsive Spotify clone based on the concepts of:
 ```
 
 ## How to Run
-[Click here](https://spotify-clone-4061e.web.app) to see a demo of the app, however, you will need to clone and replace the playlist token in `src/App.js` with yours for full functionality!
+[Click here](https://spotify-clone-4061e.web.app) to see a demo of the app.
+<br>
+#### Note: For full functionality, you will need to replace 
+
+1. Playlist token in `src/App.js` with your token once you login into your Spotify account
+2. Client ID in `src/spotify.js` with your Spotify Developers API Key from ![here](https://developer.spotify.com/dashboard/)
 
 ## App UI
 ![App UI](https://github.com/ashshekhar/spotify-clone/blob/master/App%20UI.png)
