@@ -15,7 +15,7 @@ A beautiful and highly responsive Spotify clone based on the concepts of:
 <br>
 #### Note: For full functionality, you will need to replace 
 1. Playlist token in `src/App.js` with your token. You can access it on loginng into your Spotify account and opening `Discover Weekly` playlist
-2. Client ID in `src/spotify.js` with your Spotify Developers API Key from ![here](https://developer.spotify.com/dashboard/)
+2. Client ID in `src/spotify.js` with your Spotify Developers API Key from [here](https://developer.spotify.com/dashboard/)
 
 ## App UI
 ![App UI](https://github.com/ashshekhar/spotify-clone/blob/master/App%20UI.png)
